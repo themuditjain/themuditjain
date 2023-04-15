@@ -13,6 +13,6 @@
 - 👯 I’m looking to collaborate on multiple projects which can help in exploring new areas
 - 📫 How to reach me: https://www.linkedin.com/in/mudit-jain-a707a321a/
 
-![Github stats](https://github-readme-stats.vercel.app/apithemuditjain=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=themuditjain)
 
 
