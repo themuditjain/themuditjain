@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on coding and exploring new skills
 - 🌱 I’m currently learning development and DSA
-- 👯 I’m looking to collaborate on multiple projects which can help in exploring new areas
+- 👀 I’m looking to collaborate on multiple projects which can help in exploring new areas
 - 📫 How to reach me: https://www.linkedin.com/in/mudit-jain-a707a321a/
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=themuditjain)
