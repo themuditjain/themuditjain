@@ -7,11 +7,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themuditjain&label=Profile%20views&color=0e75b6&style=flat" alt="themuditjain" /> </p>
 
-- 👨‍💻 All of my projects are available at [Click here to access my link tree profile](https://linktr.ee/mudit_jain)
+- 🔭 I’m currently working on coding and exploring new skills
+
+- 🌱 I’m currently learning development and DSA
+
+- 👀 I’m looking to collaborate on multiple projects which can help in exploring new areas
+
+- 🤝 I love doing collaborations
+
+- 👨‍💻 All of my projects are available at [My Projects](https://linktr.ee/mudit_jain)
 
 - 📫 How to reach me **1muditjain1@gmail.com**
 
-- 📄 Know about my experiences [Click here to access my Resume](https://drive.google.com/file/d/1Kwo3CHmvKOzHsT2VAxcUyzCXct6CP7sr/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Kwo3CHmvKOzHsT2VAxcUyzCXct6CP7sr/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am sarcastic**
 
