@@ -1,4 +1,4 @@
-![logo](https://github.com/themuditjain/themuditjain/blob/main/Black%20Red%20Futuristic%20Virtual%20Reality%20Video.mp4)
+![logo](https://github.com/themuditjain/themuditjain/blob/main/b0fc1fe3-3f6a-47e4-9c7c-57731b32e63d.mp4)
 
 <h1 align="center">Hi 👋, I'm Mudit Jain</h1>
 <h3 align="center">A passionate Engineering student from India</h3>
