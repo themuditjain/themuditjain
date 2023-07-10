@@ -1,4 +1,4 @@
-![logo](https://github.com/themuditjain/themuditjain/blob/main/White%20and%20Red%20Light%20Game%20Channel%20Youtube%20Channel%20Art.png)
+![logo](https://github.com/themuditjain/themuditjain/blob/main/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Mudit Jain</h1>
 <h3 align="center">A passionate Engineering student from India</h3>
