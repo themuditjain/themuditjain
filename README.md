@@ -1,4 +1,4 @@
-![logo](https://github.com/themuditjain/themuditjain/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
+![logo](https://github.com/themuditjain/themuditjain/blob/main/White%20and%20Red%20Light%20Game%20Channel%20Youtube%20Channel%20Art.png)
 
 <h1 align="center">Hi 👋, I'm Mudit Jain</h1>
 <h3 align="center">A passionate Engineering student from India</h3>
