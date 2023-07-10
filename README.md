@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themuditjain&label=Profile%20views&color=0e75b6&style=flat" alt="themuditjain" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/mudit_jain](https://linktr.ee/mudit_jain)
+- 👨‍💻 All of my projects are available at [Click here to access my link tree profile](https://linktr.ee/mudit_jain)
 
 - 📫 How to reach me **1muditjain1@gmail.com**
 
