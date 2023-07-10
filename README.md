@@ -1,4 +1,4 @@
-![logo](https://github.com/themuditjain/themuditjain/blob/main/b0fc1fe3-3f6a-47e4-9c7c-57731b32e63d.mp4)
+![logo](https://github.com/themuditjain/themuditjain/blob/main/a9b3376a-74e6-4b76-a596-3fb5fac194ba.mp4)
 
 <h1 align="center">Hi 👋, I'm Mudit Jain</h1>
 <h3 align="center">A passionate Engineering student from India</h3>
