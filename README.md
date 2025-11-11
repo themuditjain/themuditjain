@@ -1,7 +1,7 @@
 ![logo](https://github.com/themuditjain/themuditjain/blob/main/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Mudit Jain</h1>
-<h3 align="center">A passionate Engineering student from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
